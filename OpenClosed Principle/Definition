@@ -1,0 +1,4 @@
+OpenForExtensionClosedForModification:
+                                   Open/Closed principle states that code should be open for extension and closed for modification means that the code we write should
+incorporate additional new features by Extending the already exsisting code not by Modifying the previously available code. This helps to prevent unnecessary breakdown 
+of code. If we try to modify the already exsisting code we donot know the proper logic how it has been written if even make a small change it may reflect back in a complex way
