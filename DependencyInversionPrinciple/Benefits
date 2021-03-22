@@ -1,0 +1,4 @@
+Benefits of Dependency Inversion Principle:
+                            * To reduce coupling between the modules.
+                            * Reusability of code.
+                            * Adding of new additional features is also easy.
