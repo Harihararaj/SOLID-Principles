@@ -1,0 +1,4 @@
+Interface Segregation Principle:
+                              Clients should not be forced to depend upon interfaces that they do not use.The goal of this principle is to reduce the side effects of using 
+  larger interfaces by breaking application interfaces into smaller ones. We should segregate Interface in such a way that classes that implement this interface should have all 
+  the functionalities mentioned in the Interface. If it doesnot have any functionalities of interface then the Interface should be segreagated.
