@@ -1,0 +1,5 @@
+Benefits of Liskov Substitution Principle:
+                                    
+                                     * Code reusability.
+                                     * Loose coupling.
+                                     * Proper way of subclassing.
