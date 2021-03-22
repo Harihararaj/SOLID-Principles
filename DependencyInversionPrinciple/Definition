@@ -1,4 +1,0 @@
-Dependency Iversion Principle:
-                          This principle is to reduce the dependency between higher level modules and the lower level modules. Higher level modules shouldnot be depend 
-on lower level modules rather both the higher and lower level modules should be dependent on abstraction. When lower level modules changes it should not affect the higher
-level modules rather both the higher and lower level modules should be dependent on abstraction. When lower level modules changes it should not affect the higher level modules.
