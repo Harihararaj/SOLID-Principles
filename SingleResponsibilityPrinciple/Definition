@@ -1,0 +1,4 @@
+SingleResponsibilityPrinciple
+                          Single Responsibility Principle states that each class should handle only one responsibilty for the easy maintaince of code. If it handles more than  
+one responsibility then the complexity of that particular class grows and that particular class cannot be reused in the future and maintainancy of such class is very complex.
+Hence it is always good to handle one responsiblity in each class.
