@@ -1,0 +1,3 @@
+Benefits of Interface segregation principle:
+                                Another benefit is that the Interface Segregation Principle increases the readability and maintainability of our code. We are reducing our 
+class implementation only to required actions without any additional or unnecessary code.
